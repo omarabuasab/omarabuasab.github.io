@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /li/
+Sitemap: https://omarabuasab.github.io/sitemap.xml
